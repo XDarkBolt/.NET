@@ -1,0 +1,10 @@
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\bin\Debug\BCOMM.exe.config
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\bin\Debug\BCOMM.exe
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\bin\Debug\BCOMM.pdb
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.csproj.AssemblyReference.cache
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.Form1.resources
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.Properties.Resources.resources
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.csproj.GenerateResource.cache
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.csproj.CoreCompileInputs.cache
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.exe
+C:\Users\hsynk\Desktop\BCONN\BCOMM\BCOMM\BCOMM\obj\Debug\BCOMM.pdb
